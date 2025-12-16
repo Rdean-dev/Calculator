@@ -79,6 +79,6 @@ Getting Started
     npm install
     npm start
 
-Author
+
 &nbsp;Built by Rebekah Dean
 Frontend / React-focused project

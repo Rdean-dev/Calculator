@@ -1,4 +1,4 @@
-** Live Demo: ** https://rdean-dev.github.io/Calculator/<br>
+
 <br>
 &nbsp;React Calculator
 ---
@@ -84,3 +84,5 @@ Getting Started
 
 &nbsp;Built by Rebekah Dean
 Frontend / React-focused project
+
+** Live Demo: ** https://rdean-dev.github.io/Calculator/<br>

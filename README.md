@@ -1,9 +1,11 @@
 React Calculator
-
-&nbsp;A fully functional calculator built with React that replicates real calculator behavior, including chained operations, error handling, and clean UI state management.
 ---
 
+&nbsp;A fully functional calculator built with React that replicates real calculator behavior, including chained operations, error handling, and clean UI state management.
+
+
 Features
+---
 
 &nbsp;Supports all basic arithmetic operations
 
@@ -18,6 +20,7 @@ Features
 &nbsp;Clean and responsive UI with CSS Grid
 
 Tech Stack
+---
 
     React (Functional Components + Hooks)
     
@@ -26,6 +29,7 @@ Tech Stack
     CSS Grid & Flexbox
 
 Architecture Overview
+---
 
 &nbsp;The application is broken into reusable components:
   
@@ -47,6 +51,7 @@ Architecture Overview
     }
 
 Error Handling
+---
 
 &nbsp;Division by zero triggers a hard error
   
@@ -55,6 +60,7 @@ Error Handling
 &nbsp;Error state is clearly displayed on screen
 
 What This Project Demonstrates
+---
 
 &nbsp;Thoughtful state management
   
@@ -68,6 +74,7 @@ What This Project Demonstrates
 ---
 
 Getting Started
+---
 
     npm install
     npm start

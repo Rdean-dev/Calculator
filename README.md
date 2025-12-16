@@ -1,5 +1,6 @@
-** Live Demp: ** https://rdean-dev.github.io/Calculator/
-React Calculator
+** Live Demo: ** https://rdean-dev.github.io/Calculator/<br>
+<br>
+&nbsp;React Calculator
 ---
 
 &nbsp;A fully functional calculator built with React that replicates real calculator behavior, including chained operations, error handling, and clean UI state management.

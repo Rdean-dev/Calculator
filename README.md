@@ -1,20 +1,21 @@
 React Calculator
 
-    A fully functional calculator built with React that replicates real calculator behavior, including chained operations, error handling, and clean UI state management.
+&nbsp;A fully functional calculator built with React that replicates real calculator behavior, including chained operations, error handling, and clean UI state management.
+---
 
 Features
 
-    Supports all basic arithmetic operations
-  
-    Chained calculations (e.g. 5 + 4 + 3, 10 - 2 / 4)
-  
-    Division-by-zero protection with locked error state
-  
-    State-driven logic using React Hooks
-    
-    Modular, reusable components
-    
-    Clean and responsive UI with CSS Grid
+&nbsp;Supports all basic arithmetic operations
+
+&nbsp;Chained calculations (e.g. 5 + 4 + 3, 10 - 2 / 4)
+
+&nbsp;Division-by-zero protection with locked error state
+
+&nbsp;State-driven logic using React Hooks
+
+&nbsp;Modular, reusable components
+
+&nbsp;Clean and responsive UI with CSS Grid
 
 Tech Stack
 
@@ -26,7 +27,7 @@ Tech Stack
 
 Architecture Overview
 
-  The application is broken into reusable components:
+&nbsp;The application is broken into reusable components:
   
     App.jsx – Core logic and state management
     
@@ -36,7 +37,7 @@ Architecture Overview
     
     Wrapper – Layout container
   
-  Calculator state is managed with a single useState object:
+&nbsp;Calculator state is managed with a single useState object:
   
     {
       sign: "",   // current operator
@@ -47,30 +48,30 @@ Architecture Overview
 
 Error Handling
 
-  Division by zero triggers a hard error
+&nbsp;Division by zero triggers a hard error
   
-  Calculator input is locked until C is pressed
+&nbsp;Calculator input is locked until C is pressed
   
-  Error state is clearly displayed on screen
+&nbsp;Error state is clearly displayed on screen
 
 What This Project Demonstrates
 
-  Thoughtful state management
+&nbsp;Thoughtful state management
   
-  Handling edge cases and user input safely
+&nbsp;Handling edge cases and user input safely
   
-  Writing maintainable, readable code
+&nbsp;Writing maintainable, readable code
   
-  Clean separation of logic and presentation
+&nbsp;Clean separation of logic and presentation
   
-  Real-world UI behavior implementation
+&nbsp;Real-world UI behavior implementation
+---
 
 Getting Started
 
-npm install
-npm start
+    npm install
+    npm start
 
 Author
-
-Built by Rebekah Dean
+&nbsp;Built by Rebekah Dean
 Frontend / React-focused project
